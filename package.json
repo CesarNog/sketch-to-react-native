@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "dependencies": {
     "puppeteer": "^0.10.2",
-    "svgson": "^2.1.0"
+    "svgson": "^3.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
